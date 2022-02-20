@@ -1,0 +1,40 @@
+* {
+    background-color: #ffffe6;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Garamond", sans-serif;
+    color: #1a3300;
+}
+
+h2 {
+    color: #8c1aff;
+}
+
+img {
+    height: auto;
+    width: auto;
+}
+
+.liststyle {
+    font-size: 25px;
+    font-family: "Garamond", sans-serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 99%;
+}
+
+.footnote {
+    background-color: #ccccff;
+}
+
+.angrytext {
+    color: #ff3333;
+    font-style: oblique;
+    font-family: cursive;
+}
